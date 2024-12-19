@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yahiakratoss/Meteo.git/static/css/main.a204b610.css",
+    "main.js": "/Yahiakratoss/Meteo.git/static/js/main.fc25ba50.js",
+    "static/js/453.0abf0013.chunk.js": "/Yahiakratoss/Meteo.git/static/js/453.0abf0013.chunk.js",
+    "static/media/sunset.jpg": "/Yahiakratoss/Meteo.git/static/media/sunset.1e2bad270fd2b572a044.jpg",
+    "index.html": "/Yahiakratoss/Meteo.git/index.html",
+    "main.a204b610.css.map": "/Yahiakratoss/Meteo.git/static/css/main.a204b610.css.map",
+    "main.fc25ba50.js.map": "/Yahiakratoss/Meteo.git/static/js/main.fc25ba50.js.map",
+    "453.0abf0013.chunk.js.map": "/Yahiakratoss/Meteo.git/static/js/453.0abf0013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a204b610.css",
+    "static/js/main.fc25ba50.js"
+  ]
+}
